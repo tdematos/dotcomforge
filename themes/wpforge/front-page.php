@@ -55,7 +55,7 @@
       </div>
     </nav>
             <div class="title-container">
-                    <h2 class="banner-title-1">WatermellonJuice!!</h2>
+                    <h2 class="banner-title-1">WatermellonJuic</h2>
                     <h2 class="banner-title-3">Development</h2>
                     <h2 class="banner-title-2">Agency.</h2>
                  <h3 class="banner-subtitle">Take your website to new heights by hiring .comForge for your next project.</h3>
