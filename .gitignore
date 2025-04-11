@@ -7,3 +7,5 @@ ai1wm-backups
 /index.php
 /themes/index.php
 /plugins/index.php
+wp-content/uploads/
+wp-config.php
