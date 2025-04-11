@@ -1,0 +1,13 @@
+{
+  "name": "wpforge",
+  "version": "1.0.0",
+  "description": "WPForge Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago de Matos",
+  "license": "ISC"
+}
